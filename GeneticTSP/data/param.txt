@@ -1,0 +1,5 @@
+0 200 1000 0.35f 0.4f 0.25f
+1 100 2000 0.35f 0.4f 0.25f
+2 500 5000 0.35f 0.4f 0.25f
+
+// Population size, iteration num, crossover probability, mutation probability, The number of elites replicated as a percentage of the population
